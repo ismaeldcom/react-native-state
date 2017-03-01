@@ -1,0 +1,22 @@
+{
+  "name": "react-native-state",
+  "version": "1.0.0",
+  "description": "React Native library to check device state",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "state",
+    "ios",
+    "android"
+  ],
+  "author": "Ismael Martín Alabarce <info@ismaeld.com>",
+  "homepage": "https://github.com/ismaeldcom/react-native-state",
+  "repository": "ismaeldcom/react-native-state",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
